@@ -1,0 +1,14 @@
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\bin\Debug\net8.0\Curso_net.exe
+C:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\bin\Debug\net8.0\Curso_net.deps.json
+C:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\bin\Debug\net8.0\Curso_net.runtimeconfig.json
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\bin\Debug\net8.0\Curso_net.dll
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\bin\Debug\net8.0\Curso_net.pdb
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.AssemblyInfoInputs.cache
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.AssemblyInfo.cs
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.csproj.CoreCompileInputs.cache
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.dll
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\refint\Curso_net.dll
+c:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.pdb
+C:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\Curso_net.genruntimeconfig.cache
+C:\Users\mrbaguis\Desktop\Curso_net\SolucionVscode\obj\Debug\net8.0\ref\Curso_net.dll
