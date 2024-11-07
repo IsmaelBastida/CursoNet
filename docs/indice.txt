@@ -1,0 +1,17 @@
+1. Clases
+    metodos
+    propiedades o atributos
+    encapsulacion
+        private     (accesible por this)
+        public      (accesible por this y por variable)
+        protected   --> public por y private por 
+2. Herencia, Composicion(x)
+3. Interfaces
+3. Temas avanzados
+    Array, List<T>, Extension Methods, Delegates, IEnumerable<T> -> Linq
+4. Solid
+5. Patrones de diseño (Paint)
+
+
+
+
